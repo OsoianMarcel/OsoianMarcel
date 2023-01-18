@@ -56,4 +56,4 @@ In last 4 years I achieved big experience with creating decentralized applicatio
 - ⚪ Clean Code
 - ⚪ Clean Architecture
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=OsoianMarcel&show_icons=true&hide_title=true" alt="Osoian Marcel" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.zohan.tech/api?username=OsoianMarcel&show_icons=true&hide_title=true" alt="Osoian Marcel" /></p>
